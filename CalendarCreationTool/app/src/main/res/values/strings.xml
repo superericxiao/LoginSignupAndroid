@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalendarCreationTool</string>
+    <string name="no_account">Don\'t have an account? Register Here</string>
+    <string name="have_account">Already have an account. Login in here</string>
+</resources>
